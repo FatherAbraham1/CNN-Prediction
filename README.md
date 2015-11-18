@@ -17,10 +17,10 @@ and much faster. It has following features:
 
 
 One test image is like this:
-![alt tag](https://github.com/fujun-liu/CNN-Prediction/Bmal1 WT#17-3_1.jpg)
+![alt tag](https://raw.githubusercontent.com/fujun-liu/CNN-Prediction/master/Bmal1%20WT%2317-3_1.jpg)
 
 And the cnn classification for each image pixel is like this:
-![alt tag](https://github.com/fujun-liu/CNN-Prediction/edgemap.png)
+![alt tag](https://raw.githubusercontent.com/fujun-liu/CNN-Prediction/master/edgemap.png)
 
 
 For more details, check the original paper:
