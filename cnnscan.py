@@ -532,6 +532,7 @@ if __name__ == "__main__":
     print 'testing fast scanning ...'
     tstart = datetime.now()
     edgemap =  cnnModel.predictImage(img/255.0, padding = True)
+    misc.toimage(edgemap, cmin=0.0, cmax=1.0).save('edgemap.png')
     tend = datetime.now()
     print 'it took fast scanning %d seconds' %(tend - tstart).seconds
     # show result
