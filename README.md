@@ -16,6 +16,11 @@ and much faster. It has following features:
 4. The result is the same as stride 1 based sliding window
 
 
+One test image is like this:
+![alt tag](https://github.com/fujun-liu/CNN-Prediction/Bmal1 WT#17-3_1.jpg)
+
+And the cnn classification for each image pixel is like this:
+![alt tag](https://github.com/fujun-liu/CNN-Prediction/edgemap.png)
 
 
 For more details, check the original paper:
