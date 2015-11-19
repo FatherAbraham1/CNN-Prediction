@@ -7,7 +7,7 @@ each image pixel, is really computational expensive.
 This project implemented a fast version of dense scanning, it has the same result as exactly sliding window (stride is 1),
 and much faster. It has following features:
 
-1. The model is trained from image patches. For example 51 x 51 image patch in the example
+1. The model is trained from image patches using caffe (https://github.com/BVLC/caffe).
 
 2. The filters learned are applied on whole image
 
